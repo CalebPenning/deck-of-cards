@@ -1,8 +1,8 @@
-
+import Deck from "./components/Deck/Deck"
 
 const App = () => (
     <div>
-        <p>Deck will be here</p>
+        <Deck />
     </div>
 )
 
